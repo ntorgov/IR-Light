@@ -10,6 +10,7 @@
 const int buttonPin = 11;
 const int ledPin = 3; // shim
 int buttonState = 0;
+
 double lightValue = 0;
 
 void setup()
